@@ -1,0 +1,24 @@
+{
+  "name": "erd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start:dev": "node --watch main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarkhater2000/Assignment-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarkhater2000/Assignment-6/issues"
+  },
+  "homepage": "https://github.com/omarkhater2000/Assignment-6#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.16.0"
+  }
+}
